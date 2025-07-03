@@ -1,3 +1,6 @@
+#Eitan Spivak
+#311391866
+
 import os
 import random
 from PIL import Image
